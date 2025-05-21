@@ -1,1 +1,3 @@
-This is the first line in which i added from sumon_cse GitHub account
+This is the first line in which i added from sumon_cse GitHub account.
+
+this line is added after branch rules activated
